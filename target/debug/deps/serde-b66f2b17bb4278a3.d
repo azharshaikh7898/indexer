@@ -1,0 +1,11 @@
+C:\Users\azhar\indexer\target\debug\deps\serde-b66f2b17bb4278a3.d: C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\lib.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\integer128.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\mod.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\de.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\ser.rs
+
+C:\Users\azhar\indexer\target\debug\deps\libserde-b66f2b17bb4278a3.rlib: C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\lib.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\integer128.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\mod.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\de.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\ser.rs
+
+C:\Users\azhar\indexer\target\debug\deps\libserde-b66f2b17bb4278a3.rmeta: C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\lib.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\integer128.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\mod.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\de.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\ser.rs
+
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\lib.rs:
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\integer128.rs:
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\mod.rs:
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\de.rs:
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.224\src\private\ser.rs:

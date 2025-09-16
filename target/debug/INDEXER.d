@@ -1,0 +1,1 @@
+C:\Users\azhar\indexer\target\debug\INDEXER.exe: C:\Users\azhar\indexer\src\api\mod.rs C:\Users\azhar\indexer\src\blockchain\listener.rs C:\Users\azhar\indexer\src\blockchain\mod.rs C:\Users\azhar\indexer\src\database\mod.rs C:\Users\azhar\indexer\src\main.rs C:\Users\azhar\indexer\src\processor\mod.rs C:\Users\azhar\indexer\src\schema.sql

@@ -1,0 +1,2 @@
+fn(axum::extract::State<api::Api>) -> impl std::future::Future<Output = Json<serde_json::Value>> {api::Api::get_net_flow}
+fn(axum::extract::State<api::Api>) -> impl std::future::Future<Output = Json<serde_json::Value>> {api::Api::get_net_flow}: Handler<_, _, _>

@@ -1,0 +1,10 @@
+C:\Users\azhar\indexer\target\debug\deps\zerovec_derive-dd04c425b946a6a3.d: C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\lib.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_ule.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_varule.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\ule.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\utils.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\varule.rs
+
+C:\Users\azhar\indexer\target\debug\deps\zerovec_derive-dd04c425b946a6a3.dll: C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\lib.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_ule.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_varule.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\ule.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\utils.rs C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\varule.rs
+
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\lib.rs:
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_ule.rs:
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_varule.rs:
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\ule.rs:
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\utils.rs:
+C:\Users\azhar\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\varule.rs:

@@ -1,0 +1,3 @@
+Unique<(dyn FnMut(usize) -> bool + std::marker::Send + 'static)>
+Box<(dyn FnMut(usize) -> bool + std::marker::Send + 'static)>
+Option<Box<(dyn FnMut(usize) -> bool + std::marker::Send + 'static)>>
